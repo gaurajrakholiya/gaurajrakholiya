@@ -4,7 +4,7 @@
   Currently, I’m pursuing my Bachelor’s degree in Computer Engineering at <strong>LDRP Institute of Technology and Research (LDRP-ITR)</strong> in Gandhinagar.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurajrakholiya&label=Profile%20views&color=0e75b6&style=flat" alt="gaurajrakholiya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurajrakholiya&label=Profile%20views&color=f0e113&style=flat" alt="gaurajrakholiya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurajrakholiya" alt="gaurajrakholiya" /></a> </p>
 
